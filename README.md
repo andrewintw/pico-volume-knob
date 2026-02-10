@@ -92,4 +92,4 @@ MicroPython/ 資料夾存放我最初的測試程式碼。
 * 旋鈕調整音量
 * 按下旋鈕切換靜音
 
-[Tommi 的韌體版本](CircuitPython/pikku-dial)則是按鈕可以切換不同功能（音量、鍵盤方向鍵、滑鼠滾輪），蠻有趣的，可參考。
+[Tommi 的韌體版本](https://github.com/tlaukkanen/pikku-macropad/tree/main/src-dial)則是按鈕可以切換不同功能（音量、鍵盤方向鍵、滑鼠滾輪），蠻有趣的，可參考。
