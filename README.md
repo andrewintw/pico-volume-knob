@@ -75,6 +75,8 @@ MicroPython/ 資料夾存放我最初的測試程式碼。
 
 資料夾的編號順序代表我的學習測試順序。通常我先加入單一硬體寫測試程式，再加入新硬體逐步擴充，編號大的程式碼都是在前面版本的基礎上累積而成。
 
+[CircuitPython/note](CircuitPython/note) 放置學習過程中的小筆記
+
 目前最後的版本在: [CircuitPython/10_adafruit_hid](CircuitPython/10_adafruit_hid)
 
 
